@@ -1,0 +1,2 @@
+# The-power-supply-and-the-motherboard-was-updated
+The design on the front of the Tigtak printer did not determine the basic dimensions of the motherboard and power supply, so only a rough location was made. Today, the size of the motherboard and the size of the power supply were determined, so the installation box of the power supply and the motherboard was updated, if necessary. Go to our open source update page to download, thank you for your valuable comments
